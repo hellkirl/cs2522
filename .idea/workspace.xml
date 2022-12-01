@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20441345-23c4-4e9b-8dda-cdc8cd69af1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sorting algorithms/BubbleSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting algorithms/InsertionSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting algorithms/MergeSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting algorithms/SelectionSort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting algorithms/BubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting algorithms/BubbleSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting algorithms/InsertionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting algorithms/InsertionSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting algorithms/MergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting algorithms/MergeSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting algorithms/SelectionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting algorithms/SelectionSort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +55,7 @@
       <updated>1668357465774</updated>
       <workItem from="1668357467542" duration="82000" />
       <workItem from="1669892177129" duration="1805000" />
+      <workItem from="1669894297856" duration="1464000" />
     </task>
     <servers />
   </component>
@@ -73,11 +74,14 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cs2522$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1669893428150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting algorithms" />
+    <SUITE FILE_PATH="coverage/cs2522$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1669894565905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting algorithms" />
+    <SUITE FILE_PATH="coverage/cs2522$Doctests_in_InsertionSort.coverage" NAME="Doctests in InsertionSort Coverage Results" MODIFIED="1669894577928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting algorithms" />
     <SUITE FILE_PATH="coverage/cs2522$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1669893155577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting algorithms" />
     <SUITE FILE_PATH="coverage/cs2522$Doctests_in_BubbleSort.coverage" NAME="Doctests in BubbleSort Coverage Results" MODIFIED="1669893905478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting algorithms" />
     <SUITE FILE_PATH="coverage/algorithms_and_data_structures$task_1.coverage" NAME="task 1 Coverage Results" MODIFIED="1668357541661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InsertionSort" />
+    <SUITE FILE_PATH="coverage/cs2522$MergeSort.coverage" NAME="MergeSort Coverage Results" MODIFIED="1669895700055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting algorithms" />
     <SUITE FILE_PATH="coverage/cs2522$Doctests_in_SelectionSort.coverage" NAME="Doctests in SelectionSort Coverage Results" MODIFIED="1669893451301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting algorithms" />
+    <SUITE FILE_PATH="coverage/cs2522$Doctests_in_MergeSort.coverage" NAME="Doctests in MergeSort Coverage Results" MODIFIED="1669895712417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting algorithms" />
     <SUITE FILE_PATH="coverage/cs2522$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1669893868494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting algorithms" />
   </component>
 </project>
