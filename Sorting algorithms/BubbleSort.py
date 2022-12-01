@@ -1,5 +1,6 @@
 def bubbleSort(array):
     """
+    BubbleSort is a popular but ineffective sorting algorithm. The biggest element of a list pops like a bubble at the end of a list. Time complexity - O(n^2)
     >>> bubbleSort([1, 3, 1, 2, 3])
     [1, 1, 2, 3, 3]
     """
